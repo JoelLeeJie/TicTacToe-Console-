@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//change 1
+//hihi
 namespace TicTacToe //Made in c#
 {
     internal enum Symbol {X = 0, O = 1, Undecided = 2};
